@@ -49,10 +49,10 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-//$db['default']['hostname'] = 'mysql18.freehostia.com';
-$db['default']['username'] = 'marcha35_inova';
-$db['default']['password'] = 'smartinova2011';
-$db['default']['database'] = 'marcha35_inova';
+//$db['default']['hostname'] = 'xxx';
+$db['default']['username'] = 'xxx';
+$db['default']['password'] = 'xxx';
+$db['default']['database'] = 'xxx';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
